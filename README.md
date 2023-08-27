@@ -1,2 +1,2 @@
 # midi piano
-##Small piano which can be played from keyboard
+Small piano which can be played from keyboard
